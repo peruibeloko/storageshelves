@@ -1,0 +1,13 @@
+{
+  "itemGroup.storageshelves": "Example Mod Tab",
+  "block.storageshelves.example_block": "Example Block",
+  "item.storageshelves.example_item": "Example Item",
+
+  "storageshelves.configuration.title": "Storage Shelves Configs",
+  "storageshelves.configuration.section.storageshelves.common.toml": "Storage Shelves Configs",
+  "storageshelves.configuration.section.storageshelves.common.toml.title": "Storage Shelves Configs",
+  "storageshelves.configuration.items": "Item List",
+  "storageshelves.configuration.logDirtBlock": "Log Dirt Block",
+  "storageshelves.configuration.magicNumberIntroduction": "Magic Number Text",
+  "storageshelves.configuration.magicNumber": "Magic Number"
+}
